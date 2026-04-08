@@ -1,36 +1,20 @@
-# Offer Engineer Hormozi
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/offer-engineer-hormozi)
-
-Engenheiro de Ofertas Antifrágeis — raciocina sobre pricing, value equation e construção de ofertas usando os frameworks de Alex Hormozi
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius](https://myclaude.sh/u/vinicius) |
-| **License** | MIT |
-| **Price** | Free |
-
-## Installation
-
-### Via MyClaude CLI
-```bash
-myclaude install offer-engineer-hormozi
-```
-
-### Via Vercel Skills
-```bash
-npx skills add myclaude-sh/offer-engineer-hormozi
-```
-
-### Via Claude Code Plugin System
-```
-/plugin marketplace add myclaude-sh/registry
-/plugin install offer-engineer-hormozi@myclaude-sh
-```
-
-## About
+---
+name: offer-engineer-hormozi
+display_name: Offer Engineer Hormozi
+description: "Engenheiro de Ofertas Antifrágeis — raciocina sobre pricing, value equation e construção de ofertas usando os frameworks de Alex Hormozi"
+version: 1.0.0
+author: vinicius
+license: MIT
+tags:
+  - "offers"
+  - "pricing"
+  - "business-strategy"
+  - "hormozi"
+  - "value-equation"
+  - "minds"
+  - "cognitive"
+marketplace_url: "https://myclaude.sh/p/offer-engineer-hormozi"
+---
 
 # Offer Engineer Hormozi
 
@@ -80,13 +64,3 @@ This is not a generic business advisor. It's the cognitive DNA of Alex Hormozi �
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`offers` `pricing` `business-strategy` `hormozi` `value-equation` `minds` `cognitive`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/offer-engineer-hormozi) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*
