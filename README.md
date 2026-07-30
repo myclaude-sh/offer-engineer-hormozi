@@ -8,9 +8,10 @@ Engenheiro de Ofertas Antifrágeis — raciocina sobre pricing, value equation e
 |---|---|
 | **Category** | minds |
 | **Version** | 1.0.0 |
-| **Author** | [@vinicius](https://myclaude.sh/u/vinicius) |
+| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
 | **License** | MIT |
 | **Price** | Free |
+| **Downloads** | 9 |
 
 ## Installation
 

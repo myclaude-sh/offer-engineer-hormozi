@@ -3,7 +3,7 @@ name: offer-engineer-hormozi
 display_name: Offer Engineer Hormozi
 description: "Engenheiro de Ofertas Antifrágeis — raciocina sobre pricing, value equation e construção de ofertas usando os frameworks de Alex Hormozi"
 version: 1.0.0
-author: vinicius
+author: vinicius-caetano
 license: MIT
 tags:
   - "offers"
