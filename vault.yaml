@@ -1,10 +1,10 @@
 name: offer-engineer-hormozi
 version: 1.0.0
-type: minds
+type: mind
 description: "Engenheiro de Ofertas Antifrágeis — raciocina sobre pricing, value equation e construção de ofertas usando os frameworks de Alex Hormozi"
 price: 0
 license: MIT
-entry: SKILL.md
+entry: AGENT.md
 tags:
   - offers
   - pricing

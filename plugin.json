@@ -11,8 +11,8 @@
     "repo": "offer-engineer-hormozi"
   },
   "install": {
-    "type": "skill",
-    "entry": "SKILL.md"
+    "type": "mind",
+    "entry": "AGENT.md"
   },
   "tags": [
     "offers",
